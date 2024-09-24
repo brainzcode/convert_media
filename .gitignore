@@ -1,0 +1,10 @@
+depot/
+img/
+webp/
+converted_images/
+converted_media/
+converted_depot/
+images/
+.DS_Store
+doc.html
+app.py
